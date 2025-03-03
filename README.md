@@ -22,3 +22,6 @@ We are going to build a basic model for predicting customer churn using **Telco 
 
   **What are the different Churn Scenarios?**
   ![Image Alt](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/9382144834023d3872ad22c6b4b0f210340b70d4/Telco2.JPG)
+
+  **Decision Cycle of a Subscriber?**
+  ![Image Alt](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/5dc013d557344eb8ad8255d74d0d0277c2d8c911/Telco3.JPG)
