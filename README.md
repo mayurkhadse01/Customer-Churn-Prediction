@@ -19,3 +19,5 @@ We are going to build a basic model for predicting customer churn using **Telco 
 - 
 **What is Customer Churning?**
 ![Image Alt](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/41972cda548940e2206972a0a0bd76437cebcb50/Telco1.JPG)
+**What are the different Churn Scenarios?**
+  ![Image Alt](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/9382144834023d3872ad22c6b4b0f210340b70d4/Telco2.JPG)
