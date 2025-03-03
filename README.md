@@ -16,5 +16,5 @@ We are going to build a basic model for predicting customer churn using **Telco 
 - Prediction using Support Vector Classifier
 - Prediction using Decision Tree Classifier
 - Prediction using KNN Classifier
-![Image Alt]([image_url](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/41972cda548940e2206972a0a0bd76437cebcb50/Telco1.JPG)).
+![Image Alt]([image_url](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/41972cda548940e2206972a0a0bd76437cebcb50/Telco1.JPG))
 
