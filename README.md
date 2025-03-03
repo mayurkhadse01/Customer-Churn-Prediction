@@ -25,3 +25,6 @@ We are going to build a basic model for predicting customer churn using **Telco 
 
   **Decision Cycle of a Subscriber?**
   ![Image Alt](https://github.com/mayurkhadse01/Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-/blob/5dc013d557344eb8ad8255d74d0d0277c2d8c911/Telco3.JPG)
+
+**Conclusion**
+The customer churn prediction project successfully implemented multiple classification models, achieving accuracy between **72%-80%**. The models performed well in identifying non-churners but struggled with churn prediction due to class imbalance. Future improvements, such as advanced boosting techniques and hyperparameter tuning, can enhance performance. Addressing class imbalance using oversampling techniques like SMOTE can further improve churn detection.
